@@ -1,3 +1,5 @@
+https://whatsapp-clone-16e6f.web.app - This is a link to view the hosted application 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
